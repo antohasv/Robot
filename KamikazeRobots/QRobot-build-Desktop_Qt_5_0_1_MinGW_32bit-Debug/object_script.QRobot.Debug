@@ -1,0 +1,16 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\unit.o
+./debug\star.o
+./debug\robot.o
+./debug\power.o
+./debug\points.o
+./debug\image.o
+./debug\field.o
+./debug\door.o
+./debug\countdown.o
+./debug\bomb.o
+./debug\battery.o
+./debug\moc_mainwindow.o
+);

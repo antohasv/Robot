@@ -1,0 +1,5 @@
+Power
+power 1 - get one block
+power (1 .. 4) - get blocks(1 .. 4)
+power 0 - discharge battery and get 10 sec
+power full energy - block battery for 10 sec 

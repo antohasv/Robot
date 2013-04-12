@@ -1,0 +1,16 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\unit.o
+./release\star.o
+./release\robot.o
+./release\power.o
+./release\points.o
+./release\image.o
+./release\field.o
+./release\door.o
+./release\countdown.o
+./release\bomb.o
+./release\battery.o
+./release\moc_mainwindow.o
+);
